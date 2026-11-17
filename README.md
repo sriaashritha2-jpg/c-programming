@@ -1,24 +1,17 @@
-Hi, I'm Nalla Sri Aashritha! 👋
+Welcome to my C programming journey!
 
-🎓 First-year Information Technology student at Stanley College.
+I'm a first-year Information Technology student exploring C programming through practical coding exercises and projects.
 
-💻 Currently learning C programming and exploring software development.
+What you'll find here
 
-🌱 Interested in problem-solving, technology and building practical projects.
+- Basic C programs
+- Arrays and strings
+- Functions and pointers
+- Mini projects
+- Problem-solving exercises
 
-My Learning Journey
+Goal
 
-- C Programming
-- Git & GitHub
-- Exploring AI-powered development tools
+To strengthen my programming fundamentals and develop practical problem-solving skills through hands-on projects.
 
-Projects
-
-- coming soon!
-
-Connect With Me
-
-- LinkedIn:https://www.linkedin.com/in/sri-aashritha-63928542b
-
-
-Still learning. Still building. Always exploring. ✨l
+More projects coming soon! 🚀
